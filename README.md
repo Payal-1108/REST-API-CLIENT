@@ -28,3 +28,6 @@ Structured Data Display: The processed data should be presented in an easy-to-re
 Error Handling: The program should handle errors gracefully, including API failures, network issues, or unexpected JSON structures.
 
 OUTPUT OF THE TASK :
+![Image](https://github.com/user-attachments/assets/79d29dce-7b33-489b-ab12-ffa8baeea914)
+
+![Image](https://github.com/user-attachments/assets/480d1002-af80-43d4-a6fa-1bf9ea382c06)
